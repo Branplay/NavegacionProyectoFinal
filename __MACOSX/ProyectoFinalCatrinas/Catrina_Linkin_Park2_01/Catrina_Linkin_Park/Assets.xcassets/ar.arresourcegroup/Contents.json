@@ -1,0 +1,32 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Chester_B.arreferenceimage"
+    },
+    {
+      "filename" : "chesterExito.arreferenceimage"
+    },
+    {
+      "filename" : "hybrid_theory.arreferenceimage"
+    },
+    {
+      "filename" : "images-2.arreferenceimage"
+    },
+    {
+      "filename" : "images-3.arreferenceimage"
+    },
+    {
+      "filename" : "images-4.arreferenceimage"
+    },
+    {
+      "filename" : "images.arreferenceimage"
+    },
+    {
+      "filename" : "linkinParkBand.arreferenceimage"
+    }
+  ]
+}
