@@ -1,0 +1,2 @@
+origin	https://github.com/Branplay/NavegacionProyectoFinal.git (fetch)
+origin	https://github.com/Branplay/NavegacionProyectoFinal.git (push)
